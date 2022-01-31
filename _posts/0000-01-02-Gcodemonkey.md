@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to Gcodemonkey's slide!"
 ---
-This is another change.
-User the elft arror to go back!
+This is yet another change.
+Use the left arrow to go back!
